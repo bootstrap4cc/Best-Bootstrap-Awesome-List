@@ -19,7 +19,7 @@ A curated list of awesome Bootstrap 4 resources:
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) -  Vue.js 2 Twitter Bootstrap 4 Components 
 - [ng-bootstrap](https://ng-bootstrap.github.io/) -  Angular 2 Bootstrap 4 components, built by the angular-ui Team. ([source](https://github.com/ng-bootstrap/ng-bootstrap))
 - [reactstrap](https://github.com/reactstrap/reactstrap) -  ReactJS Bootstrap 4 components
-
+ - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Better reimplmenetation of reactstrap, Bootstrap components built with React
 ## Showcases
 - [Built With Bootstrap](http://builtwithbootstrap.com/) - List of Great websites built with bootstrap.
 
