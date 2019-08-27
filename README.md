@@ -11,7 +11,7 @@ A curated list of awesome Bootstrap 4 resources:
 
 ## Generic plugins and extensions
 - [Bootstrap Layouts](https://github.com/highweb/bootstrap-layouts) - Generic Bootstrap 4 layouts. 
-
+  
 ## UI Kits
 - [Material Design for Bootstrap](http://mdbootstrap.com/material-design-for-bootstrap/) - Powerful and free UI KIT for Bootstrap 4. ([source](https://github.com/mdbootstrap/bootstrap-material-design))
 
