@@ -14,6 +14,7 @@ A curated list of awesome Bootstrap 4 resources:
   
 ## UI Kits
 - [Material Design for Bootstrap](http://mdbootstrap.com/material-design-for-bootstrap/) - Powerful and free UI KIT for Bootstrap 4. ([source](https://github.com/mdbootstrap/bootstrap-material-design))
+- [AdminKit](https://adminkit.io/) - Web UI Kit & Dashboard Template for Bootstrap 4 ([source](https://github.com/adminkit/adminkit))
  
 ## Integrations
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) -  Vue.js 2 Twitter Bootstrap 4 Components 
